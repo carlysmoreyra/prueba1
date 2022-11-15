@@ -1,0 +1,6 @@
+---
+title: "Estadística - Clase 1 - Maestría en Explotación de Datos y Gestión del Conocimiento"
+output: html_notebook
+---
+
+
